@@ -51,3 +51,8 @@ Power BI
 Excel
 Git and GitHub
 Docker
+
+
+## Featured Projects
+
+A selection of technical projects demonstrating my experience across cybersecurity, cloud, software development, data analysis and problem solving.
