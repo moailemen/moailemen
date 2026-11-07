@@ -56,3 +56,9 @@ Docker
 ## Featured Projects
 
 A selection of technical projects demonstrating my experience across cybersecurity, cloud, software development, data analysis and problem solving.
+
+### 📊 Bank Customer Churn Analysis
+
+Analysed banking customer churn using Power BI, Power Query and DAX. Developed an interactive dashboard to explore customer behaviour, identify churn patterns and communicate business insights.
+
+[View Project](https://github.com/moailemen/bank-customer-churn-analysis)
